@@ -1,4 +1,5 @@
 # RideTogether
+## Moved to GitLab
 ### (Frontend)
 [see backend](https://github.com/Iberuser/RideTogether-Backend)
 
